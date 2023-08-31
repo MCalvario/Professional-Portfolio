@@ -12,6 +12,10 @@ You will be presented with my first application, then that application's image w
 Click on the images of the applications to be taken to that deployed application.
 Resize the page or view the site on various screens and devices to be presented with a responsive layout that adapts to your viewport.
 
+# Live Site Application
+[Link to Live Site](https://mcalvario.github.io/Week2Challenge/)
+[Screenshot of deployed application](![Alt text](<Assets/Screenshot (62).png>))
+[Link to live site aplication]()
 
 # Credits
 W3schools: https://www.w3schools.com/html/html_links.asp
