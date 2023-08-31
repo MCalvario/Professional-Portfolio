@@ -1,0 +1,83 @@
+body {
+    background-color:rgb(199, 204, 206);
+}
+a {
+    color: rgb(203, 195, 195);
+    padding: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+a:hover { color: rgb(255, 0, 106); }
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #3a4449;
+    color: #ffffff;
+    border-radius: 20px 20px 20px 20px;
+    font-style: italic;
+}
+
+.hero {
+    height: 400px;
+    width: 100%;
+    font-size: 40px;
+    line-height: 17.5;
+    border-radius: 20px 20px 20px 20px;
+    font-style: italic;
+}
+
+#HeroTitle { position: relative;
+    text-align:right;
+    text-shadow: 15px 20px 6px;
+    font-size: 34px;
+    letter-spacing: 6px;
+
+}
+
+.aside {
+    transform: rotate(-3deg);
+    height: 600px;
+    width: 40%;
+    font-size: 40px;
+    line-height: 1;
+    border-radius: 40px 40px 40px 40px;
+    font-style: italic;
+    padding: 20px 40px;
+    text-align: left;
+}
+
+#AsideTitle { position: relative;
+text-align: left;
+text-shadow: 20px 15px 6px;
+letter-spacing: 15px;
+padding: 50px 30px;
+font-size: 30px;
+font-style: italic;
+}
+
+#AsideParagraph, p { position: relative;
+    text-align: left;
+    width: 95%;
+    line-height: 1;
+    border-radius: 50px 60px 0px 0px;
+    font-style: italic;
+    padding: 10px 40px;
+}
+
+aside, aside, aside {
+    display: inline-block;
+    vertical-align:text-top;
+    word-wrap: break-word
+}
+
+#Work {position: relative;
+    text-align: left;
+    text-shadow: 20px 15px 6px;
+    letter-spacing: 15px;
+    padding: 50px 30px;
+    font-size: 30px;
+    font-style: italic;
+}
+
