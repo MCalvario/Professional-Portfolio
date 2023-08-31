@@ -81,3 +81,39 @@ aside, aside, aside {
     font-style: italic;
 }
 
+.work {
+    height: auto;
+    width: 5%;
+    font-size: 40px;
+    line-height: 17.5;
+    border-radius: 20px 20px 20px 20px;
+    font-style: italic;
+}
+
+.resize {
+    width: 300px;
+    height: auto;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.resize {
+    width: 200px;
+    height: auto;
+}
+
+.hero-image-bg {
+    border-radius: 20px 20px 20px 20px;
+    font-style: italic;  
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #3a4449;
+    color: #ffffff;
+    border-radius: 20px 20px 20px 20px;
+    font-style: italic;
+    font-size: 20px;
+}
