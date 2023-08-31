@@ -28,18 +28,18 @@ a:hover { color: rgb(255, 0, 106); }
     font-style: italic;
 }
 
-#HeroTitle { position: relative;
+#HeroTitle { position:relative;
     text-align:right;
     text-shadow: 15px 20px 6px;
     font-size: 34px;
     letter-spacing: 6px;
-
+    
 }
 
 .aside {
-    transform: rotate(-3deg);
+    
     height: 600px;
-    width: 40%;
+    width: 9em;
     font-size: 40px;
     line-height: 1;
     border-radius: 40px 40px 40px 40px;
@@ -49,7 +49,7 @@ a:hover { color: rgb(255, 0, 106); }
 }
 
 #AsideTitle { position: relative;
-text-align: left;
+text-align: center;
 text-shadow: 20px 15px 6px;
 letter-spacing: 15px;
 padding: 50px 30px;
@@ -58,13 +58,14 @@ font-style: italic;
 }
 
 #AsideParagraph, p { position: relative;
-    text-align: left;
+    text-align: center;
     width: 95%;
     line-height: 1;
     border-radius: 50px 60px 0px 0px;
     font-style: italic;
-    padding: 10px 40px;
+    padding: 5px 200px 30px 100px;
 }
+
 
 aside, aside, aside {
     display: inline-block;
@@ -72,8 +73,8 @@ aside, aside, aside {
     word-wrap: break-word
 }
 
-#Work {position: relative;
-    text-align: left;
+#Work {position:relative;
+    text-align: center;
     text-shadow: 20px 15px 6px;
     letter-spacing: 15px;
     padding: 50px 30px;
@@ -90,21 +91,29 @@ aside, aside, aside {
     font-style: italic;
 }
 
-.resize {
-    width: 300px;
+.placeholder {
+    width: 10px;
     height: auto;
     border-radius: 20px 20px 20px 20px;
 }
 
-.resize {
+.placeholder {
     width: 200px;
     height: auto;
+    cursor: pointer;
+
+    img {
+        width: 200px;
+        height: auto;
+    }
 }
 
-.hero-image-bg {
+img {
+    width: 300px;
+    height: 200px;
     border-radius: 20px 20px 20px 20px;
-    font-style: italic;  
 }
+
 
 .footer {
     display: flex;
