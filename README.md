@@ -14,8 +14,7 @@ Resize the page or view the site on various screens and devices to be presented 
 
 # Live Site Application
 [Link to Live Site](https://mcalvario.github.io/Week2Challenge/)
-[Screenshot of deployed application](![Alt text](<Assets/Screenshot (62).png>))
-[Link to live site aplication]()
+[Screenshot of application](![Alt text](Assets/ProfessionalProfile.png))
 
 # Credits
 W3schools: https://www.w3schools.com/html/html_links.asp
@@ -50,3 +49,6 @@ SOFTWARE.
 
 
 
+
+
+[def]: Assets/ProfessionalProfile.png

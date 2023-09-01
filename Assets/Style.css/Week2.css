@@ -33,11 +33,11 @@ a:hover { color: rgb(255, 0, 106); }
     text-shadow: 15px 20px 6px;
     font-size: 34px;
     letter-spacing: 6px;
-    
+
 }
 
 .aside {
-    
+
     height: 600px;
     width: 9em;
     font-size: 40px;
@@ -115,6 +115,7 @@ img {
 }
 
 
+/*footer*/
 .footer {
     display: flex;
     justify-content: space-between;
