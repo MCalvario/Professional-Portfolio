@@ -1,3 +1,4 @@
+/*This is the background effects for the whole page*/
 body {
     background-color:rgb(199, 204, 206);
 }
@@ -7,6 +8,7 @@ a {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     
 }
+/*This is my header with link effects and colors*/
 a:hover { color: rgb(255, 0, 106); }
 .header {
     display: flex;
@@ -18,29 +20,31 @@ a:hover { color: rgb(255, 0, 106); }
     border-radius: 20px 20px 20px 20px;
     font-style: italic;
 }
-
+/*hero banner effects*/
 .hero {
     height: 400px;
     width: 100%;
     font-size: 40px;
-    line-height: 17.5;
+
     border-radius: 20px 20px 20px 20px;
     font-style: italic;
 }
-
+/*hero title positionion and font effects*/
 #HeroTitle { position:right;
-    text-align:right;
-    text-shadow: 15px 20px 6px;
+    text-align: right;
+    text-shadow: 25px 25px 6px;
     font-size: 34px;
     letter-spacing: 6px;
-
+    padding: 40px 0px;
+    line-height: 1.5;
 }
 
+/*This is my photo effects*/
 .aside {
 
     height: 600px;
     width: 9em;
-    font-size: 40px;
+    font-size: 30px;
     line-height: 1;
     border-radius: 40px 40px 40px 40px;
     font-style: italic;
@@ -48,6 +52,7 @@ a:hover { color: rgb(255, 0, 106); }
     text-align: left;
 }
 
+/*This is the font and effects for the About me title and paragraphs*/
 #AsideTitle { position: relative;
 text-align: center;
 text-shadow: 20px 15px 6px;
@@ -73,6 +78,7 @@ aside, aside, aside {
     word-wrap: break-word
 }
 
+/*This is my Work section font and effects*/
 #Work {position:relative;
     text-align: center;
     text-shadow: 20px 15px 6px;
@@ -91,6 +97,7 @@ aside, aside, aside {
     font-style: italic;
 }
 
+/*I used these images for my projects coming soon*/
 .placeholder {
     width: 10px;
     height: auto;
@@ -115,7 +122,7 @@ img {
 }
 
 
-/*footer*/
+/*This is the coding I used to achieve the look I wanted for my footer*/
 .footer {
     display: flex;
     justify-content: space-between;
