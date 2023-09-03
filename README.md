@@ -13,7 +13,7 @@ Click on the images of the applications to be taken to that deployed application
 Resize the page or view the site on various screens and devices to be presented with a responsive layout that adapts to your viewport.
 
 # Live Site Application
-[Link to Live Site](https://mcalvario.github.io/Week2Challenge/)
+[Link to Live Site](https://mcalvario.github.io/Professional-Portfolio/)
 [Screenshot of application](![Alt text](Assets/ProfessionalProfile.png))
 
 # Credits
