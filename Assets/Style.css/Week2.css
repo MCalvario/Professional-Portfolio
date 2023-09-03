@@ -3,7 +3,7 @@ body {
 }
 a {
     color: rgb(203, 195, 195);
-    padding: 5px;
+    padding:5px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     
 }
@@ -28,7 +28,7 @@ a:hover { color: rgb(255, 0, 106); }
     font-style: italic;
 }
 
-#HeroTitle { position:relative;
+#HeroTitle { position:right;
     text-align:right;
     text-shadow: 15px 20px 6px;
     font-size: 34px;
@@ -59,7 +59,7 @@ font-style: italic;
 
 #AsideParagraph, p { position: relative;
     text-align: center;
-    width: 95%;
+    width: 100%;
     line-height: 1;
     border-radius: 50px 60px 0px 0px;
     font-style: italic;
