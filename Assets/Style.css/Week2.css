@@ -39,85 +39,25 @@ a:hover { color: rgb(255, 0, 106); }
     line-height: 1.5;
 }
 
-/*This is my photo effects*/
-.aside {
-
-    height: 600px;
-    width: 9em;
-    font-size: 30px;
-    line-height: 1;
-    border-radius: 40px 40px 40px 40px;
-    font-style: italic;
-    padding: 20px 40px;
-    text-align: left;
-}
-
-/*This is the font and effects for the About me title and paragraphs*/
-#AsideTitle { position: relative;
-text-align: center;
-text-shadow: 20px 15px 6px;
-letter-spacing: 15px;
-padding: 50px 30px;
-font-size: 30px;
-font-style: italic;
-}
-
-#AsideParagraph, p { position: relative;
-    text-align: center;
-    width: 100%;
-    line-height: 1;
-    border-radius: 50px 60px 0px 0px;
-    font-style: italic;
-    padding: 5px 200px 30px 100px;
-}
-
-
-aside, aside, aside {
-    display: inline-block;
-    vertical-align:text-top;
-    word-wrap: break-word
+#About-Me-box, p {   
+    padding: 5px 2px 30px 1px;
 }
 
 /*This is my Work section font and effects*/
-#Work {position:relative;
-    text-align: center;
+#Work {
     text-shadow: 20px 15px 6px;
     letter-spacing: 15px;
-    padding: 50px 30px;
     font-size: 30px;
-    font-style: italic;
-}
-
-.work {
-    height: auto;
-    width: 5%;
-    font-size: 40px;
-    line-height: 17.5;
-    border-radius: 20px 20px 20px 20px;
     font-style: italic;
 }
 
 /*I used these images for my projects coming soon*/
 .placeholder {
-    width: 10px;
-    height: auto;
-    border-radius: 20px 20px 20px 20px;
-}
-
-.placeholder {
-    width: 200px;
     height: auto;
     cursor: pointer;
-
-    img {
-        width: 200px;
-        height: auto;
-    }
 }
 
 img {
-    width: 300px;
-    height: 200px;
     border-radius: 20px 20px 20px 20px;
 }
 
@@ -134,3 +74,30 @@ img {
     font-style: italic;
     font-size: 20px;
 }
+
+/*This is the inline profile pic and about me section*/
+section {
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+}
+ 
+  
+img {
+    width: 400px;
+    height: 600px;
+    background-color: rgb(203, 195, 195);
+    /* Margin property */
+    margin: 20px;
+    /* Padding property */
+    padding: 20px;
+    /* Border property */
+    border: 9px inset #3a4449;
+  }
+
+  .About-Me-box {
+        text-shadow: 20px 15px 6px;
+        letter-spacing: 15px;
+        font-size: 30px;    
+        height: auto;  
+        font-style: italic;
+  }
