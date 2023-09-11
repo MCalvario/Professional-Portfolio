@@ -25,7 +25,6 @@ a:hover { color: rgb(255, 0, 106); }
     height: 400px;
     width: 100%;
     font-size: 40px;
-
     border-radius: 20px 20px 20px 20px;
     font-style: italic;
 }
@@ -39,6 +38,7 @@ a:hover { color: rgb(255, 0, 106); }
     line-height: 1.5;
 }
 
+/*changed this from aside to about me box*/
 #About-Me-box, p {   
     padding: 5px 2px 30px 1px;
 }
@@ -53,13 +53,15 @@ a:hover { color: rgb(255, 0, 106); }
 
 /*I used these images for my projects coming soon*/
 .placeholder {
-    height: auto;
+    height: 200px;
     cursor: pointer;
 }
 
 img {
+    width: 350px;
+    height: auto;
     border-radius: 20px 20px 20px 20px;
-}
+    }
 
 
 /*This is the coding I used to achieve the look I wanted for my footer*/
@@ -75,7 +77,7 @@ img {
     font-size: 20px;
 }
 
-/*This is the inline profile pic and about me section*/
+
 section {
     text-align: center;
     border-radius: 20px 20px 20px 20px;
@@ -83,8 +85,7 @@ section {
  
   
 img {
-    width: 400px;
-    height: 600px;
+    
     background-color: rgb(203, 195, 195);
     /* Margin property */
     margin: 20px;
@@ -92,6 +93,8 @@ img {
     padding: 20px;
     /* Border property */
     border: 9px inset #3a4449;
+    cursor: pointer;   
+ 
   }
 
   .About-Me-box {
