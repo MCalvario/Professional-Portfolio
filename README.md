@@ -14,7 +14,7 @@ Resize the page or view the site on various screens and devices to be presented 
 
 # Live Site Application
 [Link to Live Site](https://mcalvario.github.io/Professional-Portfolio/)
-[Screenshot of application](![Alt text](Assets/ProfessionalProfile.png))
+[Screenshot of application]![Alt text](img/ProfessionalProfile.png)
 
 # Credits
 W3schools: https://www.w3schools.com/html/html_links.asp
