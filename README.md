@@ -17,11 +17,11 @@ Resize the page or view the site on various screens and devices to be presented 
 [Screenshot of application]![Alt text](img/ProfessionalProfile.png)
 
 # Credits
-W3schools: https://www.w3schools.com/html/html_links.asp
-Youtube div placement: https://www.youtube.com/watch?v=jCnldI4uIDE
-Sunflower Image: https://cutewallpaper.org/28x/k8ogbl1ws/10217763.jpg
-red flowers Image: https://images.squarespace-cdn.com/content/v1/54992035e4b0c49940a59e49/3aaf079b-b43c-4282-88ee-3e024c7a12f1/corina-ardeleanu-sWlxCweDzzs-unsplash.jpg?format=2500w
-Hero Image: https://wallpaperaccess.com/full/2562209.jpg
+W3schools: https://www.w3schools.com/html/html_links.asp<br>
+Youtube div placement: https://www.youtube.com/watch?v=jCnldI4uIDE<br>
+Sunflower Image: https://cutewallpaper.org/28x/k8ogbl1ws/10217763.jpg<br>
+red flowers Image: https://images.squarespace-cdn.com/content/v1/54992035e4b0c49940a59e49/3aaf079b-b43c-4282-88ee-3e024c7a12f1/<br>corina-ardeleanu-sWlxCweDzzs-unsplash.jpg?format=2500w<br>
+Hero Image: https://wallpaperaccess.com/full/2562209.jpg<br>
 Links: https://www.youtube.com/watch?v=D6aHo1VvCc8
 
 
