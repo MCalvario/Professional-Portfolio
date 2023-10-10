@@ -1,7 +1,7 @@
 # Week2Challenge
 
 ## Description
-AS A potential employee I want an employer to view my deployed portfolio of work samples so that the employer can review samples of my work and assess whether I am a good candidate for an open position.
+As a potential employee I want an employer to view my deployed portfolio of work samples so that the employer can review samples of my work and assess whether I am a good candidate for an open position.
 
 # Usage
 
