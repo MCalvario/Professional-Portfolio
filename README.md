@@ -3,7 +3,7 @@
 ## Description
 As a potential employee I want an employer to view my deployed portfolio of work samples so that the employer can review samples of my work and assess whether I am a good candidate for an open position.
 
-# Usage
+## Usage
 
 To sample my previous work, load my portfolio to be presented with my recent photo, and links to sections about me, my work, and how to contact me.
 Click one of the links in the navigation and the UI scrolls to the corresponding section.
@@ -12,11 +12,11 @@ You will be presented with my first application, then that application's image w
 Click on the images of the applications to be taken to that deployed application.
 Resize the page or view the site on various screens and devices to be presented with a responsive layout that adapts to your viewport.
 
-# Live Site Application
+## Live Site Application
 [Link to Live Site](https://mcalvario.github.io/Professional-Portfolio/)<br>
 [Screenshot of application]![Alt text](img/ProfessionalProfile.png)
 
-# Credits
+## Credits
 W3schools: https://www.w3schools.com/html/html_links.asp<br>
 Youtube div placement: https://www.youtube.com/watch?v=jCnldI4uIDE<br>
 Sunflower Image: https://cutewallpaper.org/28x/k8ogbl1ws/10217763.jpg<br>
@@ -25,7 +25,7 @@ Hero Image: https://wallpaperaccess.com/full/2562209.jpg<br>
 Links: https://www.youtube.com/watch?v=D6aHo1VvCc8
 
 
-# license
+## license
 
 Copyright (c) [2023] [Professional-Portfolio]
 
